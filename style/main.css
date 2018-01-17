@@ -325,6 +325,11 @@
 .dan-sholler .participant-image {
   background: url("../../images/participants/dan-sholler.jpg") no-repeat;
   background-size: cover; }
+
+.nick-golding .participant-image {
+  background: url("../../images/participants/nick-golding.jpg") no-repeat;
+  background-size: cover; }
+
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
 Drop the image in the participants folder and link to either the png or jpg versions. gifs are also fine*/
