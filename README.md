@@ -1,12 +1,12 @@
-# [rOpenSci 2017 unconference](http://unconf18.ropensci.org/)
-__(invitation only), May 25 - 26, 2017. Los Angeles__
+# [rOpenSci 2018 unconference](http://unconf18.ropensci.org/)
+__(invitation only), May 21 - 22, 2018. Seattle__
 
 ![](http://unconf18.ropensci.org/images/LA.png)
 
-Welcome to the repository for the 2017 unconference.  rOpenSci will be hosting its fourth major developer meeting and open science hackathon this time in Los Angeles.
+Welcome to the repository for the 2018 unconference.  rOpenSci will be hosting its fifth major developer meeting and open science hackathon this time in Seattle.
 
 * [Participants](http://unconf18.ropensci.org/#participants)  
-* Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/ropensci/unconf18/issues/) and move to the wiki and/or a new repo within rOpenSci's account as needed.
+* Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/ropensci/unconf18/issues/).
 
 Event hashtag is `#runconf18`
 
@@ -19,7 +19,6 @@ This meeting is made possible by generous support from:
 
 - The Helmsley Charitable Trust
 - Microsoft
-- Google
-- Data Camp
-- Disney
+- NumFOCUS
+
 
