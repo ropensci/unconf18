@@ -1,7 +1,7 @@
 # [rOpenSci 2018 unconference](http://unconf18.ropensci.org/)
 __(invitation only), May 21 - 22, 2018. Seattle__
 
-![](http://unconf18.ropensci.org/images/LA.png)
+![](http://unconf18.ropensci.org/images/Seattle.svg)
 
 Welcome to the repository for the 2018 unconference.  rOpenSci will be hosting its fifth major developer meeting and open science hackathon this time in Seattle.
 
