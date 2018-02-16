@@ -285,8 +285,8 @@
   background: url("../../images/participants/place-holder.png") no-repeat;
   background-size: cover; }
 
-.samantha-tyner .participant-image {
-  background: url("../../images/participants/samantha-tyner.jpg") no-repeat;
+.sam-tyner .participant-image {
+  background: url("../../images/participants/sam-tyner.jpg") no-repeat;
   background-size: cover; }
 
 .erin-grand .participant-image {
@@ -328,6 +328,18 @@
 
 .nick-golding .participant-image {
   background: url("../../images/participants/nick-golding.jpg") no-repeat;
+  background-size: cover; }
+
+.zachary-foster .participant-image {
+  background: url("../../images/participants/zachary-foster.jpg") no-repeat;
+  background-size: cover; }
+
+.jon-zelner .participant-image {
+  background: url("../../images/participants/jon-zelner.jpg") no-repeat;
+  background-size: cover; }
+
+.kelly-hondula .participant-image {
+  background: url("../../images/participants/kelly-hondula.jpg") no-repeat;
   background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
