@@ -19,6 +19,7 @@ This meeting is made possible by generous support from:
 
 - The Helmsley Charitable Trust
 - Microsoft
+- RStudio
 - NumFOCUS
 
 
