@@ -178,7 +178,7 @@
  background-size: cover; }
 
 .jennifer-thompson .participant-image {
- background: url("../../images/participants/jennifer-thompson.jpeg") no-repeat;
+ background: url("../../images/participants/jennifer-thompson.jpg") no-repeat;
  background-size: cover; }
 
 .joseph-stachelek .participant-image {
@@ -345,6 +345,17 @@
 .auriel-fournier .participant-image {
   background: url("../../images/participants/auriel-fournier.png") no-repeat;
   background-size: cover; }
+
+.charles-gray .participant-image {
+  background: url("../../images/participants/charles-gray.jpg") no-repeat;
+  background-size: cover; }
+
+
+.place-holder .participant-image {
+  background: url("../../images/participants/place-holder.png") no-repeat;
+  background-size: cover; }
+
+
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
 Drop the image in the participants folder and link to either the png or jpg versions. gifs are also fine*/
