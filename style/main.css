@@ -350,6 +350,9 @@
   background: url("../../images/participants/charles-gray.jpg") no-repeat;
   background-size: cover; }
 
+.lincoln-mullen .participant-image {
+  background: url("../../images/participants/lincoln-mullen.png") no-repeat;
+  background-size: cover; }
 
 .place-holder .participant-image {
   background: url("../../images/participants/place-holder.png") no-repeat;
