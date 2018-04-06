@@ -354,10 +354,125 @@
   background: url("../../images/participants/lincoln-mullen.jpg") no-repeat;
   background-size: cover; }
 
-.place-holder .participant-image {
+.laura-acion .participant-image {
+  background: url("../../images/participants/laura-acion.jpg") no-repeat;
+  background-size: cover; }
+
+.anna-krystalli .participant-image {
+  background: url("../../images/participants/anna-krystalli.jpg") no-repeat;
+  background-size: cover; }
+
+.joyce-robbins .participant-image {
+  background: url("../../images/participants/joyce-robbins.png") no-repeat;
+  background-size: cover; }
+
+.jenny-draper .participant-image {
+  background: url("../../images/participants/jenny-draper.png") no-repeat;
+  background-size: cover; }
+
+.alison-hill .participant-image {
+  background: url("../../images/participants/alison-hill.jpg") no-repeat;
+  background-size: cover; }
+
+.omayma-said .participant-image {
   background: url("../../images/participants/place-holder.png") no-repeat;
   background-size: cover; }
 
+.christine-stawitz .participant-image {
+  background: url("../../images/participants/christine-stawitz.jpg") no-repeat;
+  background-size: cover; }
+
+.tiphaine-martin .participant-image {
+  background: url("../../images/participants/tiphaine-martin.jpg") no-repeat;
+  background-size: cover; }
+
+.angela-li .participant-image {
+  background: url("../../images/participants/angela-li.jpg") no-repeat;
+  background-size: cover; }
+
+.ildiko-czeller .participant-image {
+  background: url("../../images/participants/ildiko-czeller.jpg") no-repeat;
+  background-size: cover; }
+
+.kate-webbink .participant-image {
+  background: url("../../images/participants/kate-webbink.jpg") no-repeat;
+  background-size: cover; }
+
+.malisa-smith .participant-image {
+  background: url("../../images/participants/malisa-smith.jpg") no-repeat;
+  background-size: cover; }
+
+.monica-gerber .participant-image {
+  background: url("../../images/participants/monica-gerber.jpg") no-repeat;
+  background-size: cover; }
+
+.isabella-velasquez .participant-image {
+  background: url("../../images/participants/isabella-velasquez.png") no-repeat;
+  background-size: cover; }
+
+.amanda-dobbyn .participant-image {
+  background: url("../../images/participants/amanda-dobbyn.jpg") no-repeat;
+  background-size: cover; }
+
+.beth-duckles .participant-image {
+  background: url("../../images/participants/beth-duckles.jpg") no-repeat;
+  background-size: cover; }
+
+.luke-tierney .participant-image {
+  background: url("../../images/participants/luke-tierney.jpg") no-repeat;
+  background-size: cover; }
+
+.mauro-lepore .participant-image {
+  background: url("../../images/participants/mauro-lepore.jpg") no-repeat;
+  background-size: cover; }
+
+.bryce-mecum .participant-image {
+  background: url("../../images/participants/place-holder.png") no-repeat;
+  background-size: cover; }
+
+.leonardo-colladotorres .participant-image {
+  background: url("../../images/participants/leonardo-colladotorres.jpg") no-repeat;
+  background-size: cover; }
+
+.matt-mulvihill .participant-image {
+  background: url("../../images/participants/matt-mulvihill.jpg") no-repeat;
+  background-size: cover; }
+
+.sam-albers .participant-image {
+  background: url("../../images/participants/place-holder.png") no-repeat;
+  background-size: cover; }
+
+.kyle-hamilton .participant-image {
+  background: url("../../images/participants/kyle-hamilton.jpg") no-repeat;
+  background-size: cover; }
+
+.mark-padgham .participant-image {
+  background: url("../../images/participants/mark-padgham.jpg") no-repeat;
+  background-size: cover; }
+
+.sean-hughes .participant-image {
+  background: url("../../images/participants/sean-hughes.jpg") no-repeat;
+  background-size: cover; }
+
+.ted-laderas .participant-image {
+  background: url("../../images/participants/ted-laderas.jpg") no-repeat;
+  background-size: cover; }
+
+.juyeong-kim .participant-image {
+  background: url("../../images/participants/juyeong-kim.jpg") no-repeat;
+  background-size: cover; }
+
+.michael-quinn .participant-image {
+  background: url("../../images/participants/michael-quinn.jpg") no-repeat;
+  background-size: cover; }
+
+.paige-bailey .participant-image {
+  background: url("../../images/participants/paige-bailey.jpg") no-repeat;
+  background-size: cover; }
+
+.place-holder .participant-image {
+  background: url("../../images/participants/place-holder.png") no-repeat;
+  background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
