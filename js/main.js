@@ -25,4 +25,29 @@ jQuery(document).ready(function($){
 		);
 	});
 
+	//populate participants
+	var jqxhr = $.getJSON("participants.json", function(data){
+		var participants = $("#participantlist");
+		$.each( data, function( key, val ) {
+			var person = $('<div />', {"class": 'participant'});
+			var photo = $('<div />', {"class": 'participant-image'}).
+				css("background-image", 'url(' + val.photo + ')').
+				css("background-repeat", "no-repeat").
+				css("background-size", "cover").
+				appendTo(person);
+			person.append('<h3 class="participant-name"><a href="' + val.link + '">' + val.name + '</a></h3>');
+			var affils = $('<p />', {"class": 'participant-affiliation'});
+			var affildata = $.map(val.affil, function(afx, i){
+				if(afx.link){
+					return '<a href="' + afx.link + '">' + afx.name + '</a>';
+				} else {
+					return afx.name;
+				}
+			});
+			person.append(affildata.join(", "));
+			person.appendTo(participants);
+		});
+	}).fail(function() {
+		alert("Failure loading participants.json");
+	});
 });
