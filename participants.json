@@ -1,0 +1,695 @@
+[
+  {
+    "name": "Karthik Ram",
+    "link": "https://twitter.com/_inundata",
+    "photo": "./images/participants/karthik-ram.jpg",
+    "affil": [
+      {
+        "name": "Berkeley Institute for Data Science",
+        "link": "http://bids.berkeley.edu/"
+      },
+      {
+        "name": "rOpenSci",
+        "link": "http://ropensci.org"
+      }
+    ]
+  },
+  {
+    "name": "Jenny Bryan",
+    "link": "https://twitter.com/JennyBryan",
+    "photo": "./images/participants/jenny-bryan.jpg",
+    "affil": [
+      {
+        "name": "RStudio",
+        "link": "https://www.rstudio.com/"
+      },
+      {
+        "name": "rOpenSci",
+        "link": "http://ropensci.org"
+      }
+    ]
+  },
+  {
+    "name": "Maëlle Salmon",
+    "link": "http://www.masalmon.eu/",
+    "photo": "./images/participants/maelle-salmon.jpg",
+    "affil": [
+      {
+        "name": "rOpenSci",
+        "link": "http://ropensci.org"
+      },
+      {
+        "name": "R-Ladies social master",
+        "link": "https://rladies.org/about-us/team/"
+      }
+    ]
+  },
+  {
+    "name": "Scott Chamberlain",
+    "link": "https://scottchamberlain.info/",
+    "photo": "./images/participants/scott-chamberlain.jpg",
+    "affil": [
+      {
+        "name": "rOpenSci",
+        "link": "https://ropensci.org"
+      },
+      {
+        "name": "UC Berkeley"
+      }
+    ]
+  },
+  {
+    "name": "Carl Boettiger",
+    "link": "https://carlboettiger.info/",
+    "photo": "./images/participants/carl-boettiger.png",
+    "affil": [
+      {
+        "name": "rOpenSci",
+        "link": "https://ropensci.org"
+      },
+      {
+        "name": "UC Berkeley"
+      }
+    ]
+  },
+  {
+    "name": "Jeroen Ooms",
+    "link": "https://jeroen.github.io/",
+    "photo": "./images/participants/jeroen-ooms.jpg",
+    "affil": [
+      {
+        "name": "rOpenSci",
+        "link": "http://ropensci.org"
+      }
+    ]
+  },
+  {
+    "name": "Stefanie Butland",
+    "link": "https://twitter.com/stefaniebutland",
+    "photo": "./images/participants/stefanie-butland.jpg",
+    "affil": [
+      {
+        "name": "rOpenSci",
+        "link": "https://ropensci.org"
+      }
+    ]
+  },
+  {
+    "name": "Dan Sholler",
+    "link": "https://danielsholler.wordpress.com/",
+    "photo": "./images/participants/dan-sholler.jpg",
+    "affil": [
+      {
+        "name": "rOpenSci",
+        "link": "https://ropensci.org"
+      },
+      {
+        "name": "UC Berkeley"
+      }
+    ]
+  },
+  {
+    "name": "Noam Ross",
+    "link": "https://twitter.com/noamross",
+    "photo": "./images/participants/noam-ross.png",
+    "affil": [
+      {
+        "name": "EcoHealth Alliance",
+        "link": "http://www.ecohealthalliance.org/"
+      }
+    ]
+  },
+  {
+    "name": "Hadley Wickham",
+    "link": "http://had.co.nz/",
+    "photo": "./images/participants/hadley-wickham.jpg",
+    "affil": [
+      {
+        "name": "RStudio",
+        "link": "https://www.rstudio.com/"
+      }
+    ]
+  },
+  {
+    "name": "Elin Waring",
+    "link": "https://elinwaring.org/index.php",
+    "photo": "./images/participants/elin-waring.jpg",
+    "affil": [
+      {
+        "name": "Lehman College, CUNY"
+      }
+    ]
+  },
+  {
+    "name": "Sean Kross",
+    "link": "https://twitter.com/seankross",
+    "photo": "./images/participants/sean-kross.jpg",
+    "affil": [
+      {
+        "name": "UC San Diego",
+        "link": "http://designlab.ucsd.edu/"
+      }
+    ]
+  },
+  {
+    "name": "Shirin Glander",
+    "link": "https://shirinsplayground.netlify.com/",
+    "photo": "./images/participants/shirin-glander.jpg",
+    "affil": [
+      {
+        "name": "codecentric",
+        "link": "https://www.codecentric.de/"
+      }
+    ]
+  },
+  {
+    "name": "Laura Acion",
+    "link": "https://rladies.org/argentina-rladies/name/laura-acion/",
+    "photo": "./images/participants/laura-acion.jpg",
+    "affil": [
+      {
+        "name": "Fundación Sadosky",
+        "link": "http://www.fundacionsadosky.org.ar/"
+      },
+      {
+        "name": "CONICET",
+        "link": "http://www.conicet.gov.ar/"
+      },
+      {
+        "name": "R-Ladies Buenos Aires",
+        "link": "https://rladies.org/"
+      }
+    ]
+  },
+  {
+    "name": "Mara Averick",
+    "link": "https://twitter.com/dataandme",
+    "photo": "./images/participants/mara-averick.jpg",
+    "affil": [
+      {
+        "name": "RStudio",
+        "link": "https://www.rstudio.com/"
+      }
+    ]
+  },
+  {
+    "name": "Luke Tierney",
+    "link": "https://twitter.com/LukeTierney4",
+    "photo": "./images/participants/luke-tierney.jpg",
+    "affil": [
+      {
+        "name": "University of Iowa",
+        "link": "https://www.stat.uiowa.edu/"
+      }
+    ]
+  },
+  {
+    "name": "Angela Li",
+    "link": "https://twitter.com/CivicAngela",
+    "photo": "./images/participants/angela-li.jpg",
+    "affil": [
+      {
+        "name": "Center for Spatial Data Science at UChicago",
+        "link": "https://spatial.uchicago.edu/"
+      },
+      {
+        "name": "R-Ladies Chicago",
+        "link": "https://rladies.org/"
+      }
+    ]
+  },
+  {
+    "name": "Jim Hester",
+    "link": "http://www.jimhester.com/",
+    "photo": "./images/participants/jim-hester.jpg",
+    "affil": [
+      {
+        "name": "RStudio",
+        "link": "https://www.rstudio.com/"
+      }
+    ]
+  },
+  {
+    "name": "Omayma Said",
+    "link": "http://onceupondata.com/",
+    "photo": "./images/participants/omayma-said.jpg",
+    "affil": [
+      {
+        "name": "WUZZUF",
+        "link": "https://wuzzuf.net"
+      },
+      {
+        "name": "R-Ladies",
+        "link": "https://rladies.org/"
+      }
+    ]
+  },
+  {
+    "name": "David Smith",
+    "link": "https://twitter.com/revodavid",
+    "photo": "./images/participants/david-smith.jpg",
+    "affil": [
+      {
+        "name": "Microsoft",
+        "link": "https://www.microsoft.com/en-us/sql-server/machinelearningserver"
+      }
+    ]
+  },
+  {
+    "name": "Sam Tyner",
+    "link": "https://sctyner.github.io/",
+    "photo": "./images/participants/sam-tyner.jpg",
+    "affil": [
+      {
+        "name": "CSAFE",
+        "link": "https://forensicstats.org/"
+      },
+      {
+        "name": "rOpenSci Fellow"
+      }
+    ]
+  },
+  {
+    "name": "Zachary Foster",
+    "link": "https://github.com/zachary-foster",
+    "photo": "./images/participants/zachary-foster.jpg",
+    "affil": [
+      {
+        "name": "Oregon State University",
+        "link": "http://grunwaldlab.cgrb.oregonstate.edu/"
+      },
+      {
+        "name": "rOpenSci Fellow"
+      }
+    ]
+  },
+  {
+    "name": "Jon Zelner",
+    "link": "http://www.jonzelner.net/",
+    "photo": "./images/participants/jon-zelner.jpg",
+    "affil": [
+      {
+        "name": "University of Michigan, rOpenSci Fellow"
+      }
+    ]
+  },
+  {
+    "name": "Kelly Hondula",
+    "link": "https://twitter.com/kellyproof",
+    "photo": "./images/participants/kelly-hondula.jpg",
+    "affil": [
+      {
+        "name": "SeSync",
+        "link": "https://www.sesync.org/users/khondula"
+      },
+      {
+        "name": "University of Maryland, rOpenSci Fellow"
+      }
+    ]
+  },
+  {
+    "name": "Nick Golding",
+    "link": "https://github.com/goldingn",
+    "photo": "./images/participants/nick-golding.jpg",
+    "affil": [
+      {
+        "name": "University of Melbourne, rOpenSci Fellow",
+        "link": "https://qaeco.com/researchfellows/#ngolding"
+      }
+    ]
+  },
+  {
+    "name": "Anna Krystalli",
+    "link": "http://annakrystalli.me/",
+    "photo": "./images/participants/anna-krystalli.jpg",
+    "affil": [
+      {
+        "name": "University of Sheffield"
+      }
+    ]
+  },
+  {
+    "name": "Leonardo Collado-Torres",
+    "link": "http://lcolladotor.github.io/",
+    "photo": "./images/participants/leonardo-colladotorres.jpg",
+    "affil": [
+      {
+        "name": "Lieber Institute",
+        "link": "https://www.libd.org/"
+      }
+    ]
+  },
+  {
+    "name": "Joyce Robbins",
+    "link": "http://www.joyce-robbins.com/",
+    "photo": "./images/participants/joyce-robbins.png",
+    "affil": [
+      {
+        "name": "Columbia University, Statistics"
+      }
+    ]
+  },
+  {
+    "name": "Jenny Draper",
+    "link": "https://twitter.com/learithe",
+    "photo": "./images/participants/jenny-draper.png",
+    "affil": [
+      {
+        "name": "ESR NZ",
+        "link": "https://www.esr.cri.nz/"
+      }
+    ]
+  },
+  {
+    "name": "Bob Rudis",
+    "link": "https://about.me/hrbrmstr",
+    "photo": "./images/participants/bob-rudis.png",
+    "affil": [
+      {
+        "name": "Rapid7",
+        "link": "https://www.rapid7.com/"
+      }
+    ]
+  },
+  {
+    "name": "Kevin Ushey",
+    "link": "https://kevinushey.github.io/",
+    "photo": "./images/participants/kevin_ushey.jpg",
+    "affil": [
+      {
+        "name": "RStudio",
+        "link": "https://www.rstudio.com/"
+      }
+    ]
+  },
+  {
+    "name": "Auriel Fournier",
+    "link": "http://aurielfournier.github.io/about/",
+    "photo": "./images/participants/auriel-fournier.png",
+    "affil": [
+      {
+        "name": "Mississippi State University"
+      }
+    ]
+  },
+  {
+    "name": "Joe Cheng",
+    "link": "https://twitter.com/jcheng",
+    "photo": "./images/participants/joe-cheng.jpg",
+    "affil": [
+      {
+        "name": "RStudio",
+        "link": "https://www.rstudio.com/"
+      }
+    ]
+  },
+  {
+    "name": "Laura DeCicco",
+    "link": "https://www.usgs.gov/staff-profiles/laura-decicco",
+    "photo": "./images/participants/laura-decicco.jpg",
+    "affil": [
+      {
+        "name": "U.S. Geological Survey",
+        "link": "https://owi.usgs.gov/datascience/"
+      }
+    ]
+  },
+  {
+    "name": "Kara Woo",
+    "link": "http://karawoo.com/",
+    "photo": "./images/participants/kara-woo.jpg",
+    "affil": [
+      {
+        "name": "Sage Bionetworks",
+        "link": "http://sagebionetworks.org/"
+      }
+    ]
+  },
+  {
+    "name": "Kelly O'Briant",
+    "link": "https://kellobri.github.io/",
+    "photo": "./images/participants/kelly-obriant.jpg",
+    "affil": [
+      {
+        "name": "MapD",
+        "link": "https://github.com/mapd"
+      },
+      {
+        "name": "R-Ladies DC",
+        "link": "https://rladies.org/"
+      }
+    ]
+  },
+  {
+    "name": "Charles Gray",
+    "link": "http://choosemaths.org.au/charles-gray/",
+    "photo": "./images/participants/charles-gray.jpg",
+    "affil": [
+      {
+        "name": "La Trobe University",
+        "link": "http://www.latrobe.edu.au/"
+      }
+    ]
+  },
+  {
+    "name": "Lincoln A. Mullen",
+    "link": "https://lincolnmullen.com/",
+    "photo": "./images/participants/lincoln-mullen.jpg",
+    "affil": [
+      {
+        "name": "George Mason University"
+      }
+    ]
+  },
+  {
+    "name": "Alison Hill",
+    "link": "https://alison.rbind.io/",
+    "photo": "./images/participants/alison-hill.jpg",
+    "affil": [
+      {
+        "name": "Oregon Health & Science University"
+      }
+    ]
+  },
+  {
+    "name": "Christine Stawitz",
+    "link": "http://cstawitz.github.io/",
+    "photo": "./images/participants/christine-stawitz.jpg",
+    "affil": [
+      {
+        "name": "NOAA Fisheries - Alaska Fisheries Science Center"
+      }
+    ]
+  },
+  {
+    "name": "Matt Mulvahill",
+    "link": "https://mattmulvahill.com/",
+    "photo": "./images/participants/matt-mulvihill.jpg",
+    "affil": [
+      {
+        "name": "Colorado School of Public Health",
+        "link": "http://cida.ucdenver.edu/"
+      }
+    ]
+  },
+  {
+    "name": "Tiphaine Martin",
+    "link": "https://twitter.com/TiphCMartin",
+    "photo": "./images/participants/tiphaine-martin.jpg",
+    "affil": [
+      {
+        "name": "The Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai"
+      }
+    ]
+  },
+  {
+    "name": "Ildiko Czeller",
+    "link": "https://www.ildiczeller.com/page/about/",
+    "photo": "./images/participants/ildiko-czeller.jpg",
+    "affil": [
+      {
+        "name": "Emarsys"
+      }
+    ]
+  },
+  {
+    "name": "Ted Laderas",
+    "link": "http://laderast.github.io/",
+    "photo": "./images/participants/ted-laderas.jpg",
+    "affil": [
+      {
+        "name": "Oregon Health & Science University"
+      }
+    ]
+  },
+  {
+    "name": "Kate Webbink",
+    "link": "https://github.com/magpiedin",
+    "photo": "./images/participants/kate-webbink.jpg",
+    "affil": [
+      {
+        "name": "The Field Museum of Natural History",
+        "link": "http://emudata.fieldmuseum.org/"
+      }
+    ]
+  },
+  {
+    "name": "Malisa Smith",
+    "link": "http://hellomalisa.me/",
+    "photo": "./images/participants/malisa-smith.jpg",
+    "affil": [
+      {
+        "name": "University of Washington"
+      }
+    ]
+  },
+  {
+    "name": "Ju Kim",
+    "link": "https://twitter.com/slothsonian",
+    "photo": "./images/participants/juyeong-kim.jpg",
+    "affil": [
+      {
+        "name": "Fred Hutchinson Cancer Research Center",
+        "link": "http://rglab.org/"
+      }
+    ]
+  },
+  {
+    "name": "Monica Gerber",
+    "link": "https://twitter.com/mwgerber",
+    "photo": "./images/participants/monica-gerber.jpg",
+    "affil": [
+      {
+        "name": "Massachusetts General Hospital",
+        "link": "http://www.massgeneral.org/children/research/researchlab.aspx?id=1577"
+      }
+    ]
+  },
+  {
+    "name": "Mark Padgham",
+    "link": "https://github.com/mpadge",
+    "photo": "./images/participants/mark-padgham.jpg",
+    "affil": [
+      {
+        "name": "Department of Geoinformatics, University of Salzburg"
+      }
+    ]
+  },
+  {
+    "name": "Isabella Velasquez",
+    "link": "https://twitter.com/ivelasq3",
+    "photo": "./images/participants/isabella-velasquez.png",
+    "affil": [
+      {
+        "name": "Bill & Melinda Gates Foundation",
+        "link": "https://www.gatesfoundation.org/"
+      }
+    ]
+  },
+  {
+    "name": "W. Kyle Hamilton",
+    "link": "http://kylehamilton.com/",
+    "photo": "./images/participants/kyle-hamilton.jpg",
+    "affil": [
+      {
+        "name": "University of California, Merced"
+      }
+    ]
+  },
+  {
+    "name": "Beth Duckles",
+    "link": "http://bethduckles.com/",
+    "photo": "./images/participants/beth-duckles.jpg",
+    "affil": [
+      {
+        "name": "Insightful, LLC"
+      }
+    ]
+  },
+  {
+    "name": "Amanda Dobbyn",
+    "link": "http://dobb.ae/",
+    "photo": "./images/participants/amanda-dobbyn.jpg",
+    "affil": [
+      {
+        "name": "Earlybird Software"
+      }
+    ]
+  },
+  {
+    "name": "Mauro Lepore",
+    "link": "https://twitter.com/mauro_lepore",
+    "photo": "./images/participants/mauro-lepore.jpg",
+    "affil": [
+      {
+        "name": "ForestGEO",
+        "link": "https://forestgeo.si.edu/lepore-mauro"
+      },
+      {
+        "name": "Smithsonian NMNH",
+        "link": "https://naturalhistory.si.edu/"
+      }
+    ]
+  },
+  {
+    "name": "Bryce Mecum",
+    "link": "https://brycemecum.com/",
+    "photo": "./images/participants/bryce-mecum.png",
+    "affil": []
+  },
+  {
+    "name": "Sam Albers",
+    "link": "https://twitter.com/big_bad_sam",
+    "photo": "./images/participants/sam-albers.jpg",
+    "affil": [
+      {
+        "name": "British Columbia Ministry of Environment and Climate Change Strategy"
+      }
+    ]
+  },
+  {
+    "name": "Sean Hughes",
+    "link": "https://github.com/seaaan",
+    "photo": "./images/participants/sean-hughes.jpg",
+    "affil": [
+      {
+        "name": "University of Washington"
+      }
+    ]
+  },
+  {
+    "name": "Jennifer Thompson",
+    "link": "http://jenthompson.me/",
+    "photo": "./images/participants/jennifer-thompson.jpg",
+    "affil": [
+      {
+        "name": "Vanderbilt University Medical Center",
+        "link": "http://biostat.mc.vanderbilt.edu/JenniferThompson"
+      },
+      {
+        "name": "R-Ladies Nashville",
+        "link": "http://rladies.org/"
+      }
+    ]
+  },
+  {
+    "name": "Michael Quinn",
+    "link": "https://github.com/michaelquinn32",
+    "photo": "./images/participants/michael-quinn.jpg",
+    "affil": [
+      {
+        "name": "Google"
+      }
+    ]
+  },
+  {
+    "name": "Paige Bailey",
+    "link": "https://twitter.com/DynamicWebPaige",
+    "photo": "./images/participants/paige-bailey.jpg",
+    "affil": [
+      {
+        "name": "Microsoft"
+      }
+    ]
+  }
+]
