@@ -1,4 +1,15 @@
-/*These are all the participants*/
+/* Participants styles */
+h3.participant-name > a {
+  font-style: italic;
+}
+
+p.participant-affiliation {
+  font-size: 85%;
+}
+
+p.participant-affiliation > a {
+  color: currentColor;
+}
 
 * {
   -webkit-box-sizing: border-box;
