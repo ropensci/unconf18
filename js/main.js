@@ -38,16 +38,12 @@ jQuery(document).ready(function($){
 			person.append('<h3 class="participant-name"><a href="' + val.link + '">' + val.name + '</a></h3>');
 			var affils = $('<p />', {"class": 'participant-affiliation'});
 			var affildata = $.map(val.affil, function(afx, i){
-				if(afx.link){
-					return '<a href="' + afx.link + '">' + afx.name + '</a>';
-				} else {
-					return afx.name;
-				}
+				return afx.link ? ('<a href="' + afx.link + '">' + afx.name + '</a>') : afx.name;
 			});
 			person.append(affildata.join(", "));
 			person.appendTo(participants);
 		});
-	}).fail(function() {
-		alert("Failure loading participants.json");
+	}).fail(function( jqxhr, textStatus, error ) {
+		alert("Failure loading participants.json:\n" + error );
 	});
 });
