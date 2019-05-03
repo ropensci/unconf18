@@ -40,7 +40,8 @@ jQuery(document).ready(function($){
 			var affildata = $.map(val.affil, function(afx, i){
 				return afx.link ? ('<a href="' + afx.link + '">' + afx.name + '</a>') : afx.name;
 			});
-			person.append(affildata.join(", "));
+			affils.append(affildata.join(", "));
+			affils.appendTo(person);
 			person.appendTo(participants);
 		});
 	}).fail(function( jqxhr, textStatus, error ) {
